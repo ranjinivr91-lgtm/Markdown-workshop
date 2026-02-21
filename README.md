@@ -21,15 +21,13 @@ By default, Stripe enables cards and other common payment methods. You can turn 
    
    
 
-** Image **
+![](/hq720.jpg)
+
 
 [click to open](https://www.google.com/search?q=gmail&rlz=1C1RXQR_enIN1060IN1060&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgMyCQgCEEUYOxjCAzIJCAMQRRg7GMIDMgkIBBBFGDsYwgMyCQgFEEUYOxjCAzIJCAYQRRg7GMIDMgkIBxBFGDsYwgPSAQsyMDE3MTQyajBqN6gCCLACAfEFszTfF3wL3Z4&sourceid=chrome&ie=UTF-8)
 
-![]()
 
-
-
-    ** code **
+ **Note:**
 
 ```
 
@@ -42,6 +40,16 @@ By default, Stripe enables cards and other common payment methods. You can turn 
 }
 
 ```
+
+Table 1
+
+name | place | profession
+--- | --- | ---
+saina | blore |badminton
+sania | hyd | cricket
+kohli | delhi | cricket
+
+
 
 
 
